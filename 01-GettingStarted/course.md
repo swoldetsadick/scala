@@ -16,5 +16,5 @@
 
 [![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://d3c33hcgiwev3.cloudfront.net/gHc2zhjxEeaHiBKWMgIXbw.processed/full/540p/index.mp4?Expires=1539820800&Signature=eRaeHo4jEWZxyFyaOAR5nh-J2cX619dwxpyJvWJsY-Bu9ZZpJK1HHl4UmxPsbHPEv4KZgTJ87CRpnO1AarR5u3DsfupWSrO8BAFFKIUc-C3o8sE1BjlJr9Tk0CREniMA3r6UZrB12NkV14M32R6nZACCjzIswirxFxlFPninsGs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
-### E. Practice programming Assigment: Example Assigment
+### E. Practice programming Assignment: Example Assignment
 
