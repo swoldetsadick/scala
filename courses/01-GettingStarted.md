@@ -7,15 +7,15 @@
 [![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://photos.google.com/share/AF1QipNNiXgbBDq27s0fecbdyrKppYHzMyhQTu95_BN-bWCaT-K7aw9AHxBEjSvdEs45eQ/photo/AF1QipM1AbuLwvJM41XLZaOEBmvgGTRK6WpzMOyPgR3B?key=d1VORnBKUmRhdzdKV3ZwYVN2X1Z2M0E4Y0pOazJB)
 ### B. Tools setup for Linux
 
-[![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://d3c33hcgiwev3.cloudfront.net/qHC4xxkBEea3RQoRNEpMkw.processed/full/540p/index.mp4?Expires=1539820800&Signature=MhsQPXRTuVDQQ0uh-WhNZwdSCuGPO-KcDVmMFi-u1Gkl4wqPZIg7C3BKnprJ81zyb1lBp3LD9km82K4jocXeewclZMGaqsUo-Q8zcySryP4tbqqUooneEOyngde~~Xx4C4iXhw178SfAacU4w4oArYAFN141hAtLS-WIn-f7FxA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://photos.google.com/share/AF1QipNNiXgbBDq27s0fecbdyrKppYHzMyhQTu95_BN-bWCaT-K7aw9AHxBEjSvdEs45eQ/photo/AF1QipP4gNI4vss-z-03jiSmiQlaH6Ii0UP78FbzeTmF?key=d1VORnBKUmRhdzdKV3ZwYVN2X1Z2M0E4Y0pOazJB)
 
 ### C. Tools setup for MAC OS X
 
-[![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://d3c33hcgiwev3.cloudfront.net/Ay8x6BO9Eea5Iw6UELUegQ.processed/full/540p/index.mp4?Expires=1539820800&Signature=Rsp9kPtztn4YvyePtN9NLKbi5VYJlrKKxcqTme10A~09MGk~kzMogh~abaT1gw-6PSijgzwhETZBzTNk9rhiEfpJm0nvRnVf5hx6cYnD8wL86DSjqC4qPWjbaSi6DwlNT83cDtSbE~dWkTnVYsumjA57ZPuv-f2XQwOch-~ud6c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://photos.google.com/share/AF1QipNNiXgbBDq27s0fecbdyrKppYHzMyhQTu95_BN-bWCaT-K7aw9AHxBEjSvdEs45eQ/photo/AF1QipMlJ6AN17kWFmPlifasaEEY5aKdqxKP05Q9mAf_?key=d1VORnBKUmRhdzdKV3ZwYVN2X1Z2M0E4Y0pOazJB)
 
 ### D. Tools setup for Windows
 
-[![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://d3c33hcgiwev3.cloudfront.net/gHc2zhjxEeaHiBKWMgIXbw.processed/full/540p/index.mp4?Expires=1539820800&Signature=eRaeHo4jEWZxyFyaOAR5nh-J2cX619dwxpyJvWJsY-Bu9ZZpJK1HHl4UmxPsbHPEv4KZgTJ87CRpnO1AarR5u3DsfupWSrO8BAFFKIUc-C3o8sE1BjlJr9Tk0CREniMA3r6UZrB12NkV14M32R6nZACCjzIswirxFxlFPninsGs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[![Watch the video](https://raw.githubusercontent.com/swoldetsadick/scala/master/front.png)](https://photos.google.com/share/AF1QipNNiXgbBDq27s0fecbdyrKppYHzMyhQTu95_BN-bWCaT-K7aw9AHxBEjSvdEs45eQ/photo/AF1QipOjuOC9HonHRRCZoGeyKSTUOGTdjqE-rYxwDU5h?key=d1VORnBKUmRhdzdKV3ZwYVN2X1Z2M0E4Y0pOazJB)
 
 [Example Project Github Link](https://github.com/swoldetsadick/scala/tree/course_week_1/projects/00-setup)
 
